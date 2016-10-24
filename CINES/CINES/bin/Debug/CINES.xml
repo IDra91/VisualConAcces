@@ -1,0 +1,160 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CINES
+</name>
+</assembly>
+<members>
+<member name="T:CINES.basedatosDataSet.compraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CINES.basedatosDataSet.generoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CINES.basedatosDataSet.horarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CINES.basedatosDataSet.peliculaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CINES.basedatosDataSet.precioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CINES.basedatosDataSet.salaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CINES.basedatosDataSet.compraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CINES.basedatosDataSet.generoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CINES.basedatosDataSet.horarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CINES.basedatosDataSet.peliculaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CINES.basedatosDataSet.precioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CINES.basedatosDataSet.salaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CINES.basedatosDataSet.compraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CINES.basedatosDataSet.generoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CINES.basedatosDataSet.horarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CINES.basedatosDataSet.peliculaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CINES.basedatosDataSet.precioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CINES.basedatosDataSet.salaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CINES.basedatosDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:CINES.basedatosDataSetTableAdapters.compraTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CINES.basedatosDataSetTableAdapters.generoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CINES.basedatosDataSetTableAdapters.horarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CINES.basedatosDataSetTableAdapters.peliculaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CINES.basedatosDataSetTableAdapters.precioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:CINES.basedatosDataSetTableAdapters.salaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:CINES.basedatosDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(CINES.basedatosDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:CINES.basedatosDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(CINES.basedatosDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:CINES.basedatosDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(CINES.basedatosDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:CINES.basedatosDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:CINES.basedatosDataSetTableAdapters.TableAdapterManager.UpdateAll(CINES.basedatosDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:CINES.basedatosDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:CINES.basedatosDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:CINES.basedatosDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:CINES.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:CINES.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="P:CINES.My.Resources.Resources.logo_valentines">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="T:CINES.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+</members>
+</doc>

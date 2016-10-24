@@ -1,0 +1,17 @@
+c:\users\manuel\documents\visual studio 2013\Projects\CINES\CINES\bin\Debug\CINES.exe.config
+c:\users\manuel\documents\visual studio 2013\Projects\CINES\CINES\bin\Debug\basedatos.accdb
+c:\users\manuel\documents\visual studio 2013\Projects\CINES\CINES\bin\Debug\CINES.exe
+c:\users\manuel\documents\visual studio 2013\Projects\CINES\CINES\bin\Debug\CINES.pdb
+c:\users\manuel\documents\visual studio 2013\Projects\CINES\CINES\bin\Debug\CINES.xml
+c:\users\manuel\documents\visual studio 2013\Projects\CINES\CINES\obj\Debug\CINES.Form1.resources
+c:\users\manuel\documents\visual studio 2013\Projects\CINES\CINES\obj\Debug\CINES.Genero.resources
+c:\users\manuel\documents\visual studio 2013\Projects\CINES\CINES\obj\Debug\CINES.Resources.resources
+c:\users\manuel\documents\visual studio 2013\Projects\CINES\CINES\obj\Debug\CINES.vbproj.GenerateResource.Cache
+c:\users\manuel\documents\visual studio 2013\Projects\CINES\CINES\obj\Debug\CINES.exe
+c:\users\manuel\documents\visual studio 2013\Projects\CINES\CINES\obj\Debug\CINES.xml
+c:\users\manuel\documents\visual studio 2013\Projects\CINES\CINES\obj\Debug\CINES.pdb
+c:\users\manuel\documents\visual studio 2013\Projects\CINES\CINES\obj\Debug\CINES.Compra.resources
+c:\users\manuel\documents\visual studio 2013\Projects\CINES\CINES\obj\Debug\CINES.Horario.resources
+c:\users\manuel\documents\visual studio 2013\Projects\CINES\CINES\obj\Debug\CINES.Pelicula.resources
+c:\users\manuel\documents\visual studio 2013\Projects\CINES\CINES\obj\Debug\CINES.Precio.resources
+c:\users\manuel\documents\visual studio 2013\Projects\CINES\CINES\obj\Debug\CINES.Sala.resources
